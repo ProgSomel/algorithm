@@ -41,10 +41,10 @@ Graphs can be **directed or undirected**, **cyclic or acyclic**, and may have **
     D   E
 
 ### Graph
-   A ---- B
-   | \    |
-   |  \   |
-   C ---- D
+    A ---- B
+    | \    |
+    |  \   |
+    C ---- D
 
 ## ✅ Key Takeaways
 - A **Tree** is a **special type of Graph** (connected, acyclic, hierarchical).

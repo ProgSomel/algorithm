@@ -11,3 +11,9 @@
 
 ## Directed and Undirected
 ![Directed vs Undirected](assets/image.png)
+
+## Weighted and Unweighted
+![Weighted and Unweighted](assets/image%20copy.png)
+
+## Cyclic(has cycle) and Acyclic(don't have cycle)
+![Cyclic and Acyclic](assets/image%20copy%202.png)

@@ -1,1 +1,0 @@
-# 6_1 Detect cycle in undirected graph

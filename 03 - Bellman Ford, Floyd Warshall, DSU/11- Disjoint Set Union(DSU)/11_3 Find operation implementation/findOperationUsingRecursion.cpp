@@ -3,7 +3,7 @@ using namespace std;
 
 int leader[1005];
 
-int find(int node){
+int find(int node){ //? O(N)
     if(leader[node] == -1) return node;
     return find(leader[node]);
 }
